@@ -1,0 +1,33 @@
+body {
+    font-family: fantasy;
+    text-align: center;
+    background-color: teal;
+    color: white;
+  }
+  .container {
+    margin: 200px;
+    padding: 0;
+    height: 250px;
+    width: 250px;
+  }
+  
+  input {
+    margin-bottom: 5px;
+    width: 175px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: turquoise;
+    text-align: center;
+  }
+  
+  button {
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: teal;
+  }
+  /* button:hover {
+    background-color: lightgreen;
+  } */
+  
